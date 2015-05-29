@@ -1,0 +1,1 @@
+Patient can take online appointments before visiting the doctor's clinic so that one can save ones precious time. The records of patients can be stored in the database and doctor can see the previous history of patients.
